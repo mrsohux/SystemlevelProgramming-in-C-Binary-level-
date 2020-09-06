@@ -50,4 +50,11 @@ Output : 2 4
 Input : 257\
 Output : TRUE
 
+
+[16] Write a program which accept one number , two positions from user and check whether bit at first or bit at second position is ON or OFF.\
+Input : 10 3 7\
+Output : FALSE\
+
+Input :15 1 4\
+Output :TRUE
  
