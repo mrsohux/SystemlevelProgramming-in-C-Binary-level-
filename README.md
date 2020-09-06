@@ -46,4 +46,8 @@
 Input : 10 15 (1010 1111)\
 Output : 2 4
 
+[15] Write a program which accept one number from user and check whether 9th or 12th bit is on or off.\
+Input : 257\
+Output : TRUE
+
  
